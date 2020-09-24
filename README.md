@@ -1,6 +1,6 @@
 # CounterApp
 
-A new Flutter project.
+A Counter Flutter App implemented using BLoC Design Pattern
 
 ## Getting Started
 
